@@ -1,3 +1,7 @@
 .__gt-xs prm-search-bar .search-elements-wrapper.simple-mode .simple-search-wrapper, .__xs prm-search-bar .search-elements-wrapper.simple-mode .simple-search-wrapper {
   box-shadow: none;
 }
+
+prm-brief-result-container md-icon svg {
+  color: red!important;
+}
