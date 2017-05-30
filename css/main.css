@@ -5,3 +5,11 @@
 prm-brief-result-container md-icon svg {
   color: red!important;
 }
+
+prm-logo div.product-logo {
+  display:none;
+}
+
+prm-logo div.product-logo-local {
+  display: flex;
+}
