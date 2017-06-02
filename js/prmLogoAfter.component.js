@@ -12,7 +12,7 @@ app.controller('prmLogoAfterController', [
     };
 
     ctrl.getSmallIconLink = function() {
-      return '/custom/MUSE/img/kb_logo_small.png'; // View name!
+      return 'custom/MUSE/img/kb_logo_small.png'; // View name!
     };
 
   }
