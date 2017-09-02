@@ -8,3 +8,5 @@ See the slides [here](https://docs.google.com/presentation/d/1m_VC7WrCNSvrPCtlVt
 See [the list of commits that add some functionality incrementally to the package](https://github.com/muratseyhan/primo-explore-demo/commits/master). 
 
 **Important Note:** In order to build the package on [Step 0](https://github.com/muratseyhan/primo-explore-demo/tree/6f8a14b87093d156f931440ac89e1236c1c4f664), you should add a blank file named `custom1.css` under [css/](https://github.com/muratseyhan/primo-explore-demo/tree/6f8a14b87093d156f931440ac89e1236c1c4f664/css).
+
+**Author's Note:** I no longer work with Primo, and I will not be aware when the depicted customizations become obsolete.
